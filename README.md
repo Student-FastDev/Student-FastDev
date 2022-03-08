@@ -8,7 +8,7 @@
 
 - 👨‍💻 Discord: JestemSzybki#1649
 
-### My Stats!
+## My Stats!
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true&theme=github_dark)
