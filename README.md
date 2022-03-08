@@ -1,4 +1,4 @@
-### Hello World, I'm FastDev 👋
+# Hello World, I'm FastDev 👋
 
 ## I'm a student developer!
 
