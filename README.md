@@ -11,7 +11,7 @@
 ### My Stats!
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true?theme=github_dark)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-FastDev)](https://github.com/anuraghazra/github-readme-stats)
