@@ -2,7 +2,7 @@
 
 ## I'm a student developer!
 
-- 🔭 I’m currently participates in the project called "None".
+- 🔭 I’m currently participates in the project called "FastEx".
 - 🌱 I’m currently learning C++ and Lua
 ### Connect with me:
 
