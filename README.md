@@ -10,7 +10,6 @@
 
 ## My Stats!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true&theme=github_dark)
-<br />
+<img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true&theme=github_dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-FastDev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-FastDev&theme=github_dark" />
