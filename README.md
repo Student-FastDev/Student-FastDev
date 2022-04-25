@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++ and Lua
 ## Connect with me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/877544932800348240)](https://discord.com/users/877544932800348240)
+[![Discord Presence](https://lanyard.cnrad.dev/api/877544932800348240?bg=#525252)](https://discord.com/users/877544932800348240)
 
 ## My Stats!
 
