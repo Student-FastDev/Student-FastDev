@@ -8,6 +8,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/877544932800348240?bg=#525252)](https://discord.com/users/877544932800348240)
 
+## I listen this:
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=314376usnc4efynsu3nzgy7xtxq4)
+
 ## My Stats!
 
 <img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true&theme=dark" />
