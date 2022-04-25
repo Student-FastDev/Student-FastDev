@@ -1,4 +1,4 @@
-# Hello World, I'm FastDev 👋
+# HELLO WORLD, I'm FastDev
 
 ## I'm a student developer!
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++ and Lua
 ## Connect with me:
 
-- 👨‍💻 Discord: JestemSzybki#1649
+[![Discord Presence](https://lanyard.cnrad.dev/api/877544932800348240)](https://discord.com/users/877544932800348240)
 
 ## My Stats!
 
