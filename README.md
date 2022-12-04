@@ -1,21 +1,14 @@
-# HELLO WORLD, I'm FastDev
+### Hi there 👋, welcome to my profile!
+![](https://cdn.discordapp.com/attachments/893584916514738187/1048886062950391808/Bez_nazwy-2.png)
 
-## I'm a student developer!
+A small developer.
 
-- 🔴 I’m currently participates in the project called "FastExec".
-- 🔴 I’m currently learning C++ and Lua.
-## Connect with me:
+Skills: C++, PYTHON, LUA, HTTP, CSS
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/877544932800348240?bg=#525252)](https://discord.com/users/877544932800348240)
-
-## My Stats!
-
-<img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Student-FastDev&count_private=true&show_icons=true&theme=dark" />
-
-<img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-FastDev&theme=dark" />
+- 🌱 I’m currently learning C++. 
+- ⚡ Fun fact: Average orbital speed of Earth is about 30 km/s. 
 
 
-<img align="left" widht="47%" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-<img align="left" widht="47%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" widht="47%" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" widht="47%" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Student-FastDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fastdev_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19528551)  
+
+![Profile views](https://gpvc.arturio.dev/Student-FastDev)  
