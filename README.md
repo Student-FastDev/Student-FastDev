@@ -1,5 +1,5 @@
 ### Hi there 🌐, welcome to my profile!
-![](https://cdn.discordapp.com/attachments/893584916514738187/1048894151644684308/Bez_nazwy-1_Odzyskano.png)
+![](https://cdn.discordapp.com/attachments/893584916514738187/1048894477596622908/Bez_nazwy-1.png)
 
 A small developer.
 
