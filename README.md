@@ -1,5 +1,5 @@
 ### Hi there 🌐, welcome to my profile!
-![](https://cdn.discordapp.com/attachments/893584916514738187/1048894477596622908/Bez_nazwy-1.png)
+![](https://github.com/Student-FastDev/Student-FastDev/blob/main/fast.gif)
 
 A small developer.
 
