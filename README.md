@@ -1,5 +1,5 @@
 ### Hi there 🌐, welcome to my profile!
-![](https://github.com/Student-FastDev/Student-FastDev/blob/main/fast.gif)
+![https://www.fastbio.xyz](https://github.com/Student-FastDev/Student-FastDev/blob/main/banner.gif)
 
 A small developer.
 
